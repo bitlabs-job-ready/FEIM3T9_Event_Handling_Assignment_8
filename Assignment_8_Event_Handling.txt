@@ -1,0 +1,1 @@
+create a simple React application that utilizes event handling and event bindings. The application will consist of a button and a paragraph element. When the button is clicked, the text in the paragraph element will change. 
